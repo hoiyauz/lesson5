@@ -1,2 +1,2 @@
 # lesson5
-Sample repository.
+Sample repository
